@@ -16,4 +16,5 @@ The custom editor provides a number of options to customize the movement of the 
 	- Cycle: Will go from the last point back to the first point
 - Ease in and out: Determines whether the platform will slowly accelerate/deccelerate when reaching/leaving points
 - Ease in and out Distance: Determines how close to points that easing in and out will take place
+
 ![](gifs/movingPlat_Editor.gif)
